@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87a14f48-d521-4072-8eae-ca2b4657dbf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320/src/main/java/org/tax/TaxDeduction.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Java-Application-Program-Module-3-Critical-Thinking-CSC-320" />
+  </component>
+  <component name="ProjectId" id="2WTsc2wGucTZlWbvZBBL45b9mA5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/cypri/Downloads/Java-Application-Program-Module-3-Critical-Thinking-CSC-320.-main/Java-Application-Program-Module-3-Critical-Thinking-CSC-320.-main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.tax" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87a14f48-d521-4072-8eae-ca2b4657dbf8" name="Changes" comment="" />
+      <created>1696767983574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696767983574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
